@@ -1,6 +1,6 @@
 ## Web Performance Notes
-This is all about web performance. Notes taken from FrontEnd Master(https://frontendmasters.com)
-The course demonstrated by Kyle Simpson(https://github.com/getify).
+This is all about web performance. Notes taken from [FrontEnd Master](https://frontendmasters.com)
+The course demonstrated by [Kyle Simpson](https://github.com/getify).
 
 ## Make Performance a Priority
 #### Performance Golden Rule
