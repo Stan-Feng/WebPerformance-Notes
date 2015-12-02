@@ -1,7 +1,8 @@
 ## Web Performance Notes
+This is all about web performance. Notes taken from FrontEnd Master(https://frontendmasters.com)
+The course demonstrated by Kyle Simpson(https://github.com/getify).
 
-### Make Performance a Priority
-
+## Make Performance a Priority
 #### Performance Golden Rule
   - "80%-90% of the end-user response time is spent on the front-end. Start there." -- Steve Souders
   - "Premature optimization is the root of all evil." --Donold Knuth
@@ -36,8 +37,7 @@
     - Most of "front-end" optimization actually happens in the "middle-end"
     - Middle-end:Templating, URL Routing, Headers, Caching, Ajax, etc
 
-### The Middle-End: YSlow
-
+## The Middle-End: YSlow
 #### YSlow rules
   1. Fewer HTTP Requests
   2. Use a CDN
