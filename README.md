@@ -1,7 +1,3 @@
-## Web Performance Notes
-This is all about web performance. Notes taken from [FrontEnd Master](https://frontendmasters.com)
-The course demonstrated by [Kyle Simpson](https://github.com/getify).
-
 ## Make Performance a Priority
   - #### Performance Golden Rule
     - "80%-90% of the end-user response time is spent on the front-end. Start there." -- Steve Souders
@@ -55,8 +51,13 @@ The course demonstrated by [Kyle Simpson](https://github.com/getify).
     9. Minify JS/CSS
     10. ETags (Conditional Loading)
     11. Cacheable Ajax
+
   - #### But some of these rules are contradictory: 1 & 7,  2 & 8, 3 & 10
 
+## Resources
+  - Images, optimizer, image sprites
+  - Minify, (uglify)
+  - Concatenation, zBUgs
 
 ## Resources:
   - http://webpagetest.org
@@ -64,6 +65,11 @@ The course demonstrated by [Kyle Simpson](https://github.com/getify).
   - http://www.gidnetwork.com/tools/gzip-test.php
   - https://developer.yahoo.com/performance/rules.html
   - http://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/
+  - http://imageoptimizer.net/Pages/Home.aspx
+  - http://spriteme.org/
+  - http://compressorater.thruhere.net
+  - **http://jsbeautifier.org**
+  - **http://cssbeautify.org**
 
 
 
